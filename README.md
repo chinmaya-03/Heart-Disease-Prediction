@@ -26,16 +26,9 @@ You can install the required packages using the following command:
 ## Model Training and Evaluation 📈:
 The model is trained using logistic regression, and the dataset is split into training and testing sets using the `train_test_split` function from scikit-learn. The model's accuracy is evaluated using the R-squared metric and displayed on the web application.
 
-## Streamlit Web Application  💻:
-The Streamlit application consists of three main sections accessible from the sidebar:
 
-### Home Page 🏠:
-The landing page of the web application welcomes users to the "Heart Disease Prediction" section.
 
-### Heart Disease Prediction 💓:
-In this section, users can input their health details such as age, sex, chest pain type, blood pressure, serum cholestoral, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise, slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, and thalassemia type.
 
-After providing the necessary inputs, users can click the "Predict Disease" button to get the model's prediction. If the prediction indicates that the person is fit and does not have any heart disease, a success message with the accuracy of the model (91.21%) is displayed. Otherwise, if the person is predicted to be suffering from heart disease, a relevant message is shown along with the model's accuracy.
 
 
 
