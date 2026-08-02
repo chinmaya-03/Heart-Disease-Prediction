@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction ❤️
+# Heart-Disease-Prediction 
 
 This repository contains code for a machine learning model that predicts the likelihood of heart disease based on various health-related features. The model is built using logistic regression and is implemented as an interactive web application using Streamlit. The app allows users to input their health information and receive a prediction regarding the presence or absence of heart disease.
 
@@ -40,10 +40,5 @@ In this section, users can input their health details such as age, sex, chest pa
 
 After providing the necessary inputs, users can click the "Predict Disease" button to get the model's prediction. If the prediction indicates that the person is fit and does not have any heart disease, a success message with the accuracy of the model (91.21%) is displayed. Otherwise, if the person is predicted to be suffering from heart disease, a relevant message is shown along with the model's accuracy.
 
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal and commercial purposes. 📜🆓
-
-## Acknowledgements
-I would like to express my gratitude to the open-source community for providing invaluable resources and inspiration for this project.🌟
 
 
