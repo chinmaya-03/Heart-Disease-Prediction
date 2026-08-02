@@ -46,9 +46,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## Acknowledgements
 I would like to express my gratitude to the open-source community for providing invaluable resources and inspiration for this project.🌟
 
-## 📬 Contact Me
-If you want to contact me, you can reach me through the below handles.
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/harsh-kumawat-069bb324b/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
-
-© 2023 Harsh
